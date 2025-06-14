@@ -11,14 +11,8 @@
 ## Demo
 [Demo](https://demo.v2board.com)
 
-## Document
+## 文档
 [Click](https://v2board.com)
 
-## Sponsors
-Thanks to the open source project license provided by [Jetbrains](https://www.jetbrains.com/)
-
-## Community
+## 社区
 🔔Telegram Channel: [@v2board](https://t.me/v2board)  
-
-## How to Feedback
-Follow the template in the issue to submit your question correctly, and we will have someone follow up with you.
